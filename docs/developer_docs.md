@@ -71,6 +71,6 @@ os_second_project
 | css         |Contains css code files|
 | js          |Contains javascript code files|
 | docs        |Contains user and developer documentation|
-| slide       |             |
-| meme        |             |
-| texts       |             ||
+| slide       |Contains Cardnews image and source to make visible|
+| meme        |Contains Card Generator|
+| texts       |Contains license and software guarantee||
