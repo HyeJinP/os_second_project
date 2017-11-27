@@ -12,7 +12,7 @@ If you want to report a bug or ask a question, create and issue.
 * [Installation](#Installation)
 * [How to use program](#how-to-use)
 * [Code style](#code-style)
-* [Code structure](#code-style)
+* [Code structure](#code-structure`)
 
 ## General ##
 
@@ -22,9 +22,9 @@ If you want to report a bug or ask a question, create and issue.
 
 ## Requirements ##
 
-1. **Bundler** : [`Bundler install`](bundler.io)
+1. **Bundler** : [`Bundler install`](https://bundler.io)
 
-##Installation##
+## Installation ##
 
 1. Run `git clone https://github.com/HyeJinP/os_second_project.git`
 2. Installation Requirements
@@ -70,11 +70,11 @@ os_second_project
 | **meme**        |Contains Card Generator|
 | **texts**       |Contains license and software guarantee||  
 
-### Views ###
+#### Views ####
 
 ```
 ├── slide  
-    ├── a  
+    ├── a.html
     ├── ...
     ...
 ...
@@ -83,34 +83,39 @@ os_second_project
 |File/Folder|Description|
 |---|---|
 |**slide**|Contains main screen's partial Cardnews|
-|**slide/a**|Contain Cardnews images.|
+|**slide/a.html**|Contain Cardnews images.|
 |...|...|
-|**slide/e**|Contain Cardnews images.||
+|**slide/e.html**|Contain Cardnews images.||
 
-### html ###
+#### html ####
 
 ```
-├── index
-├── login
-└── upload
+├── index.html
+├── login.html
+└── upload.html
 ```
 
 |File/Folder|Description|
 |---|---|
-|**index**|Contails main screen.|
-|**login**|Contains login screen.|
-|**upload**|Contain uploading Cardnews images.||
+|**index.html**|Contails main screen.|
+|**login.html**|Contains login screen.|
+|**upload.html**|Contain uploading Cardnews images.||
 
-### javascript ###
+#### javascript ####
 
 ```
 ├── js
-    ├── login
-    └── upload
+    └── index.js
+...
+└── slide
+    ├── jquery.slides.min.js
+    ├── rrssb.js
+    └── rrssb.min.js
 ```
 
 |File/Folder|Description|
 |---|---|
-|**index**|Contails main screen.|
-|**login**|Contains login screen.|
-|**upload**|Contain uploading Cardnews images.||
+|**index.js**|Contain method of uploading Cardnews images.|
+|**jquery.slides.min.js**|Contain method of moving(sliding) Cardnews images.|
+|**rrssb.js**|Contain method of sharing Cardnews images.|
+|**rrssb.min.js**|Minimized rrssb.js||
