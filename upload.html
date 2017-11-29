@@ -44,6 +44,18 @@
 <script src='https://rawgit.com/adrotec/knockout-file-bindings/master/knockout-file-bindings.js'></script>
 
     <script  src="js/index.js"></script>
-
+    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAAsmX-NF1ThPVvU_YW4N3X8DnJSEB4S7I",
+        authDomain: "os-cardnews.firebaseapp.com",
+        databaseURL: "https://os-cardnews.firebaseio.com",
+        projectId: "os-cardnews",
+        storageBucket: "os-cardnews.appspot.com",
+        messagingSenderId: "421775265542"
+      };
+      firebase.initializeApp(config);
+    </script>
 </body>
 </html>

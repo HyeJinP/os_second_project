@@ -12,12 +12,12 @@ If you want to report a bug or ask a question, create and issue.
 * [Installation](#Installation)
 * [How to use program](#how-to-use)
 * [Code style](#code-style)
-* [Code structure](#code-structure`)
+* [Code structure](#code-structure)
 
 ## General ##
 
 - **Author** : 사고7조
-- **Version** : [Fill it]
+- **Version** : version 0.2
 - **Compatibility** : [Fill it]
 
 ## Requirements ##
