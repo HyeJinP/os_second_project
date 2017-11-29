@@ -175,7 +175,7 @@
   <!-- End SlidesJS Required: Start Slides -->
 
   <!-- SlidesJS Required: Link to jQuery -->
-  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
   <!-- End SlidesJS Required -->
 
   <!-- SlidesJS Required: Link to jquery.slides.js -->
@@ -199,5 +199,18 @@
     });
   </script>
   <!-- End SlidesJS Required -->
+  <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyAAsmX-NF1ThPVvU_YW4N3X8DnJSEB4S7I",
+      authDomain: "os-cardnews.firebaseapp.com",
+      databaseURL: "https://os-cardnews.firebaseio.com",
+      projectId: "os-cardnews",
+      storageBucket: "os-cardnews.appspot.com",
+      messagingSenderId: "421775265542"
+    };
+    firebase.initializeApp(config);
+  </script>
 </body>
 </html>
