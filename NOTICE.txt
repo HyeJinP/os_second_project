@@ -2,12 +2,15 @@
 
 
 
-*이 소프트웨어에는 MIT License 하에 배포되는 소프트웨어들이 사용되었습니다.
- 사용된 소프트웨어는 아래와 같습니다.
+
+
+* This software uses software distributed under the MIT license. The software used is shown below.
 
  - Flat HTML5/CSS3 LOGIN Form (https://codepen.io/colorlib/pen/rxddKy)
  - How to Make a Website (https://codepen.io/nickpettit/pen/deAnv)
  - Knockout Files Bindings with upload preview and drag & drop (https://codepen.io/mrsafraz/pen/uIrwC)
+ - Zipline: Build a Personal Portfolio Webpage (https://codepen.io/lveent/pen/gaZyaq)
+ - Normalize (https://github.com/necolas/normalize.css)
  - RRSSB (https://rrssb.netlify.com)
  - Bundler (https://bundler.io)
  - jquery (https://jquery.com)
@@ -21,7 +24,11 @@ Copyright (c) 2017 by Nick Pettit (How to Make a Website)
 
 Copyright (c) 2017 by Muhammad Safraz Razik (Knockout Files Bindings with upload preview and drag & drop)
 
-Copyright (C) 2014-2015 Daniel Box and Joshua Tuscan (RRSSB)
+Copyright (c) 2017 by lveent (Zipline: Build a Personal Portfolio Webpage)
+
+Copyright (c) Nicolas Gallagher and Jonathan Neal (Normalize)
+
+Copyright (c) 2014-2015 Daniel Box and Joshua Tuscan (RRSSB)
 
 Portions copyright (c) 2010 Andre Arko (Bundler)
 
@@ -39,7 +46,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ==================================================================================
 
 
-*이 소프트웨어에는 Apache License 하에 배포되는 소프트웨어인 Slides (http://slidesjs.com) 가 사용되었습니다.
+* This software uses Slides (http://slidesjs.com), which is distributed under the Apache License.
 
 
 Copyright 2013 Nathan Searles
@@ -63,7 +70,7 @@ limitations under the License.
 ==================================================================================
 
 
-*이 소프트웨어에는 BSD 3-clause License 하에 배포되는 소프트웨어인 meme (https://github.com/voxmedia/meme) 이 사용되었습니다.
+* This software uses meme (https://github.com/voxmedia/meme) which is distributed under the BSD 3-clause License.
 
 
 Copyright (c) 2014 Vox Media Inc., Yuri Victor, Greg MacWilliam.
@@ -79,5 +86,7 @@ Redistribution and use in source and binary forms, with or without modification,
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
 
 

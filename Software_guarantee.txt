@@ -1,0 +1,17 @@
+Software Guarantee
+green-01
+
+The software is an open source program with Apache License 2.0, and its software components are also open source.
+MIT License, Apache License 2.0, and BSD-3-License are common to all of the following.
+
+1. Permission to replicate, deploy, or modify
+2. Commercial Availability
+3. No obligation to release source code
+4. Copyright Indication
+5. Others
+
+The content does not cause any problems in the commercial use of the software.
+In addition to the common issues, the content included in each license is also free of any copyright conflicts between the software, and therefore there is no legal cause of the problem between the licenses.
+(Open source programs and licenses are available in the LICENSE.txt and NOTICE.txt files in this software.)
+Therefore, we guarantee that users of this software are free from problems when using the software in compliance with the license contents, and that if the problem arises, the software manufacturer is responsible.
+(However, it is not responsible for the copyright owner who is the component software maker.)
