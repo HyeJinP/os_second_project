@@ -11,6 +11,7 @@ If you want to report a bug or ask a question, create and issue.
 * [Requirements](#requirements)
 * [Installation](#Installation)
 * [How to use program](#how-to-use)
+* [Contribution](#contribution)
 * [Code style](#code-style)
 * [Code structure](#code-structure)
 
@@ -34,6 +35,14 @@ If you want to report a bug or ask a question, create and issue.
 
 [Fill it]
 
+## Contribution ##
+
+1. Fork it ( https://github.com/HyeJinP/os_second_project.git )
+2. Create your feature branch `git checkout -b my-new-feature`
+3. Commit your changes `git commit -am 'Add some feature'`
+4. Push to the branch `git push origin my-new-feature`
+5. Create a new Pull Request
+
 ## Code style ##
 
 We use [ESLint](https://eslint.org/) based on Google code style to maintain javascript code style.  
@@ -41,7 +50,7 @@ Check code style with :
 ```
 npm run lint
 
-# or  
+or  
 
 grunt eslint
 ```
