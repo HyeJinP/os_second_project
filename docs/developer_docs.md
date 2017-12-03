@@ -3,14 +3,14 @@
 
 This Documentation helps you to understand code.
 
-If you want to report a bug or ask a question, create and issue.
+If you want to report a bug or ask a question, create and [issue](https://github.com/HyeJinP/os_second_project/issues/new).
 
 ## Summary ##
 
 * [General](#general)
 * [Requirements](#requirements)
 * [Installation](#Installation)
-* [How to use program](#how-to-use)
+* [Online Manual](#online-manual)
 * [Contribution](#contribution)
 * [Code style](#code-style)
 * [Code structure](#code-structure)
@@ -19,21 +19,21 @@ If you want to report a bug or ask a question, create and issue.
 
 - **Author** : 사고7조
 - **Version** : version 0.2
-- **Compatibility** : [Fill it]
+- **Online Link** : https://os-cardnews.firebaseapp.com
 
 ## Requirements ##
 
 1. **Bundler** : [`Bundler install`](https://bundler.io)
+2. **NPM dependency** : Run `npm install -g eslint eslint-config-airbnb-base eslint-plugin-import` to install `NPM dependencies`
 
 ## Installation ##
 
 1. Run `git clone https://github.com/HyeJinP/os_second_project.git`
 2. Installation Requirements
-3. Run `npm install -g eslint eslint-config-airbnb-base eslint-plugin-import` to install `NPM dependencies`
 
-## How to use ##
+## Online Manual ##
 
-[Fill it]
+- **User Manual** : [`User Manual`](https://os-cardnews.firebaseapp.com/manual/manual.html)
 
 ## Contribution ##
 
@@ -128,3 +128,7 @@ os_second_project
 |**jquery.slides.min.js**|Contain method of moving(sliding) Cardnews images.|
 |**rrssb.js**|Contain method of sharing Cardnews images.|
 |**rrssb.min.js**|Minimized rrssb.js||
+
+#### meme ####
+
+More information : [meme](https://github.com/voxmedia/meme)
