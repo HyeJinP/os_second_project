@@ -12,4 +12,4 @@ If you want to see **website** :  [https://os-cardnews.firebaseapp.com/](https:/
 * Login with Google+
 * Make Cardnews image file
 * Provide [Online User Manual](https://os-cardnews.firebaseapp.com/manual/manual.html)
-* Provide [Developer Documentation](nd_project/blob/master/docs/developer_docs.md)
+* Provide [Developer Documentation](https://github.com/HyeJinP/os_second_project/blob/master/docs/developer_docs.md)
