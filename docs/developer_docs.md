@@ -30,6 +30,7 @@ If you want to report a bug or ask a question, create and [issue](https://github
 
 1. Run `git clone https://github.com/HyeJinP/os_second_project.git`
 2. Installation Requirements
+3. Installation [Meme](#meme)
 
 ## Online Manual ##
 
@@ -131,4 +132,7 @@ os_second_project
 
 #### meme ####
 
-More information : [meme](https://github.com/voxmedia/meme)
+1. Folder in /meme
+2. Run `bundle install` and Run `bundle exec middleman` to making cardnews.
+3. Click `CREATE` button in html.
+- More information : [meme](https://github.com/voxmedia/meme)
