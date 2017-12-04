@@ -24,7 +24,7 @@ If you want to report a bug or ask a question, create and [issue](https://github
 ## Requirements ##
 
 1. **Bundler** : [`Bundler install`](https://bundler.io)
-2. **NPM dependency** : Run `npm install -g eslint eslint-config-airbnb-base eslint-plugin-import` to install `NPM dependencies`
+2. **ESLint** : Run `npm install -g eslint eslint-config-airbnb-base eslint-plugin-import` to install `ESLint`
 
 ## Installation ##
 
