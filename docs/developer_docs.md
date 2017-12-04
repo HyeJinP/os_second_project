@@ -66,6 +66,7 @@ os_second_project
 ├── js  
 ├── docs  
 ├── slide  
+├── manual  
 ├── meme  
 └── texts  
 ```
