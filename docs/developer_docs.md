@@ -78,7 +78,8 @@ os_second_project
 | **docs**        |Contains user and developer documentation|
 | **slide**       |Contains Cardnews image and source to make visible|
 | **meme**        |Contains Card Generator|
-| **texts**       |Contains license and software guarantee||  
+| **texts**       |Contains license and software guarantee|
+| **manual**      |Contains Online Manual||  
 
 #### Views ####
 
@@ -129,6 +130,25 @@ os_second_project
 |**jquery.slides.min.js**|Contain method of moving(sliding) Cardnews images.|
 |**rrssb.js**|Contain method of sharing Cardnews images.|
 |**rrssb.min.js**|Minimized rrssb.js||
+
+
+#### Manual ####
+
+```
+├── manual  
+    ├── css  
+    ├── img  
+    ├── js
+    ├── manual.html
+    ...
+```
+
+|File/Folder|Description|
+|---|---|
+|**css**|Contains manual's css files.|
+|**img**|Contain image used in html.|
+|**js**|Contains manual's javascript files.|
+|**manual.html**|Contain Online manual.||
 
 #### meme ####
 
